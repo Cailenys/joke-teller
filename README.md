@@ -36,8 +36,6 @@ This exciting JavaScript project demonstrates how to request a random joke from 
 3. Run the server
 4. Enjoy!
 
-![Demo](https://cailenysleslie.com/wp-content/uploads/2022/10/Quote-generator-gif.gif)
-
 ## References 📖
 
 - Text-to-Speech API: [Link](https://rapidapi.com/voicerss/api/text-to-speech-1)
