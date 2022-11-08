@@ -31,7 +31,7 @@ This exciting JavaScript project demonstrates how to request a random joke from 
 
 ## Testing it out!🤓
 
-1. Clone this repository:https://github.com/Cailenys/joke-teller.git
+1. Clone this repository: https://github.com/Cailenys/joke-teller.git
 2. Open the main folder with Visual Studio or the code editor of your preference.
 3. Run the server
 4. Enjoy!
